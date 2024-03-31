@@ -1,0 +1,11 @@
+﻿IDUsuario,IDFilme,NomeFilme,Avaliacao
+1,101,Matrix,1
+2,102,Senhor dos Anéis,0
+3,103,Interestelar,1
+4,104,Harry Potter,1
+5,105,Star Wars,0
+1,102,Senhor dos Anéis,1
+2,101,Matrix,0
+3,104,Harry Potter,1
+4,102,Senhor dos Anéis,1
+5,101,Matrix,1
